@@ -1,0 +1,1 @@
+the output will be 1, because only the first resolve/reject call is being considered. 
